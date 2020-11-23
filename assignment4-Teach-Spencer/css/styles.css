@@ -1,0 +1,26 @@
+@@font-face {
+  font-family: 'legend';
+  src: url('../fonts/legend.ttf');
+}
+
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font color: red
+  font-size: 45px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 25px
+}
+
+p {
+  font-family: cursive;
+  .padding: 0.5rem;
+}
+
+body {
+  background-color: blue;
+  border-radius: 30px;
+}
+
+border {border-style: solid;} h1/>
