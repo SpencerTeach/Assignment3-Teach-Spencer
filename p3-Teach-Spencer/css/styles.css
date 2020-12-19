@@ -1,0 +1,82 @@
+@@font-face {
+  font-family: 'legend';
+  src: url('../fonts/legend.ttf');
+}
+
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font color: red
+  font-size: 45px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 25px
+}
+
+p {
+  font-family: cursive;
+  .padding: 0.5rem;
+}
+.p:hover{
+  color: red
+}
+
+body {
+  background-color: gray;
+  border-radius: 30px;
+}
+
+border {border-style: solid;} h1/>
+
+div.static {patriots}
+  position: static
+  left: 30px;
+
+.patriots img {
+  width: 125px;
+  display: inline-block;
+}
+
+.patriots img {
+  float: right;
+}
+
+.Contactus {
+  background:Red;
+  padding: 20px;
+  max-width: 500px;
+  border-radius: 4px;
+  color: white;
+  font-family: sans-serif;
+}
+
+.label_input_wrap {
+  display: block;
+}
+
+.reset input,
+.submit input {
+  background: orange;
+  color: white;
+  padding: 5px 20px;
+  display: inline;
+}
+
+.reset,
+.submit {
+  display: inline;
+}
+
+.input-section {
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+
+textarea {
+  font-family: sans-serif;
+  padding: 10px 10px;
+}
